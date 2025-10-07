@@ -95,7 +95,7 @@ Once trained, the model was deployed directly to the **Nano 33 BLE** for **on-de
 
 | Tool | Purpose |
 |------|----------|
-| **Arduino IDE** | Firmware development |
+| **PlatformIO** | Firmware development |
 | **Edge Impulse Studio** | Data collection and model training |
 | **Serial Monitor** | Debugging and serial communication |
 | **GSM Library** | SMS functionality integration |
