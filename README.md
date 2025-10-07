@@ -114,7 +114,7 @@ Once trained, the model was deployed directly to the **Nano 33 BLE** for **on-de
    - Power the device using a Li-ion battery.
 
 3. **Upload Firmware**
-   - Use Arduino IDE to flash the main code to Nano 33 BLE.
+   - Use pltformIO to flash the main code to Nano 33 BLE.
    - Ensure correct serial port and board are selected.
 
 4. **Test System**
