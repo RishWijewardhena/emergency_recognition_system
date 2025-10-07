@@ -74,20 +74,20 @@ Once trained, the model was deployed directly to the **Nano 33 BLE** for **on-de
 
 ## ⚡ Features
 
-- ✅ Voice command activation (“Help Me”)  
-- ✅ Instant SMS alerts to emergency contacts  
-- ✅ Fully offline – no Wi-Fi or internet required  
-- ✅ Compact, portable design  
-- ✅ On-device AI with Edge Impulse  
+- Voice command activation (“Help Me”)  
+- Instant SMS alerts to emergency contacts  
+- Fully offline – no Wi-Fi or internet required  
+- Compact, portable design  
+- On-device AI with Edge Impulse  
 
 ---
 
 ## 🔧 Future Enhancements
 
-- 📍 **GPS Integration:** Include location data in the SMS alert  
-- 🔋 **Power Optimization:** Extend battery life for longer operation  
-- 🩺 **Wearable Design:** Miniaturize into a wristband or pendant form  
-- 📱 **Multi-Platform Alerts:** Expand notifications to mobile apps and email  
+-  **GPS Integration:** Include location data in the SMS alert  
+-  **Power Optimization:** Extend battery life for longer operation  
+-  **Wearable Design:** Miniaturize into a wristband or pendant form  
+-  **Multi-Platform Alerts:** Expand notifications to mobile apps and email  
 
 ---
 
